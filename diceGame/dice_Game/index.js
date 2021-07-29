@@ -11,34 +11,34 @@ function rollDice (){
     diceImg2.innerHTML = random2;
 
         switch(random1) {
-            case 1: diceImg1.src="img\\dice1.png";
+            case 1: diceImg1.src="dice_Game\\img\\dice1.png";
                 break;
-            case 2: diceImg1.src="img\\dice2.png";
+            case 2: diceImg1.src="dice_Game\\img\\dice2.png";
                 break;
-            case 3:diceImg1.src="img\\dice3.png";
+            case 3:diceImg1.src="dice_Game\\img\\dice3.png";
                 break;
-            case 4: diceImg1.src="img\\dice4.png"; 
+            case 4: diceImg1.src="dice_Game\\img\\dice4.png"; 
                 break;
-            case 5: diceImg1.src="img\\dice5.png";
+            case 5: diceImg1.src="dice_Game\\img\\dice5.png";
                 break;
-            case 6: diceImg1.src="img\\dice6.png";
+            case 6: diceImg1.src="dice_Game\\img\\dice6.png";
                 break;
             default: console.log("Dice has max only 6");
         }
     
 
         switch(random2) {
-            case 1: diceImg2.src="img\\dice1.png";
+            case 1: diceImg2.src="dice_Game\\img\\dice1.png";
                 break;
-            case 2: diceImg2.src="img\\dice2.png";
+            case 2: diceImg2.src="dice_Game\\img\\dice2.png";
                 break;
-            case 3:diceImg2.src="img\\dice3.png";
+            case 3:diceImg2.src="dice_Game\\img\\dice3.png";
                 break;
-             case 4: diceImg2.src="img\\dice4.png"; 
+             case 4: diceImg2.src="dice_Game\\img\\dice4.png"; 
                 break;
-            case 5: diceImg2.src="img\\dice5.png";
+            case 5: diceImg2.src="dice_Game\\img\\dice5.png";
                 break;
-            case 6: diceImg2.src="img\\dice6.png";
+            case 6: diceImg2.src="dice_Game\\img\\dice6.png";
                 break;
             default: console.log("Dice has max only 6");
         } 
