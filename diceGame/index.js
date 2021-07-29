@@ -17,7 +17,7 @@ function rollDice (){
                 break;
             case 3:diceImg1.src="diceGame\\img\\dice3.png";
                 break;
-            case 4: diceImg1.src="dicGame\\img\\dice4.png"; 
+            case 4: diceImg1.src="diceGame\\img\\dice4.png"; 
                 break;
             case 5: diceImg1.src="diceGame\\img\\dice5.png";
                 break;
